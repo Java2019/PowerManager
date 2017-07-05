@@ -1,3 +1,8 @@
 <resources>
+    <string name="hello">Hello World, PowerManagerActivity!</string>
     <string name="app_name">Power Manager</string>
+    <string name="partial_wake_lock">Partial Wake Lock</string>
+    <string name="screen_bright_wake_lock">Screen Bright Wake Lock</string>
+    <string name="screen_dim_wake_lock">Screen Dim Wake Lock</string>
+    <string name="full_wake_lock">Full Wake Lock</string>
 </resources>
